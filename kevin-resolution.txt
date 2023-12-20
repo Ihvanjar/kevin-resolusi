@@ -2,4 +2,3 @@ Kevin Resolution
 - Belajar Javascript
 - Belajar Node.js Siap
 - Belajar Git & Github
-- Belajar Typescript
