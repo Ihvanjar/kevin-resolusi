@@ -1,5 +1,5 @@
 Kevin Resolution
 - Belajar Javascript
-- Belajar Node.js
+- Belajar Node.js Siap
 - Belajar Git & Github
 - Belajar Typescript
